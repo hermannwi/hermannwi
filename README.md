@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a part of a research team at the University of Bergen
+I'm a part of a research team at the University of Bergen.
 Currently we're doing a project on Midjourney
 
 <!--
