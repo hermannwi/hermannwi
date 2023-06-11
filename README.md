@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a part of a research team at the University of Bergen.
-Currently we're doing a project on Midjourney
+
 
 <!--
 **hermannwi/hermannwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
